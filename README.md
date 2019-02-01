@@ -17,3 +17,5 @@ A Facebook clone for the Bootcamp Ruby class.
 
 - [ ] User can post on her wall
 - [ ] User can view someone else's wall
+
+###################
